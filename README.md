@@ -1,4 +1,7 @@
-## Hi there 👋
+## hi there
+
+**Develops in**
+![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,nodejs,python,java,cs,react,vue,git,github,linux,unity)
 
 <!--
 **rx1nport/rx1nport** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
